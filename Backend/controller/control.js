@@ -30,7 +30,7 @@ const postTableData = (req, res) => {
 };
 
 const putTableData = (req, res) => {
-  const {name, email,date_of_birth, place} = req.body;
+  const {id,  name, email,date_of_birth, place} = req.body;
   if(Object.keys(req.body).length===0){
     // console.log("bloody")
     res.send("enter the values")
