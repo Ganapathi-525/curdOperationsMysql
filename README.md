@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone (https://github.com/Ganapathi-525/curdOperationsMysql)
    ```
 2. Navigate to the project directory
    ```sh
